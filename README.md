@@ -155,19 +155,19 @@ This test program repeatedly increments three registers and continues execution 
 ### Execution Output 1
 
 <p align="center">
-  <img src="images/arithmetic_test_1.png" width="900">
+  <img src="Images/arithmetic_test_1.png" width="900">
 </p>
 
 ### Execution Output 2
 
 <p align="center">
-  <img src="images/arithmetic_test_2.png" width="900">
+  <img src="Images/arithmetic_test_2.png" width="900">
 </p>
 
 ### Execution Output 3
 
 <p align="center">
-  <img src="images/arithmetic_test_3.png" width="900">
+  <img src="Images/arithmetic_test_3.png" width="900">
 </p>
 
 ---
@@ -187,19 +187,19 @@ Features demonstrated:
 ### Execution Output 1
 
 <p align="center">
-  <img src="images/memory_test_1.png" width="900">
+  <img src="Images/memory_test_1.png" width="900">
 </p>
 
 ### Execution Output 2
 
 <p align="center">
-  <img src="images/memory_test_2.png" width="900">
+  <img src="Images/memory_test_2.png" width="900">
 </p>
 
 ### Execution Output 3
 
 <p align="center">
-  <img src="images/memory_test_3.png" width="900">
+  <img src="Images/memory_test_3.png" width="900">
 </p>
 
 ---
@@ -219,13 +219,13 @@ Features:
 ### GUI Demonstration 1
 
 <p align="center">
-  <img src="images/gui_1.png" width="900">
+  <img src="Images/gui_1.png" width="900">
 </p>
 
 ### GUI Demonstration 2
 
 <p align="center">
-  <img src="images/gui_2.png" width="900">
+  <img src="Images/gui_2.png" width="900">
 </p>
 
 ---
