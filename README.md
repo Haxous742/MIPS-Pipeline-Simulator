@@ -141,6 +141,95 @@ The simulator automatically collects and reports detailed statistics.
 
 ---
 
+# 📷 Screenshots & Demonstrations
+
+## 1. Arithmetic Loop Execution
+
+This test program repeatedly increments three registers and continues execution until their cumulative sum exceeds a predefined threshold. The objective is to demonstrate:
+
+* Arithmetic instruction execution
+* Loop control using branches
+* Delayed branch handling
+* Pipeline progression across iterations
+
+### Execution Output 1
+
+<p align="center">
+  <img src="images/arithmetic_test_1.png" width="900">
+</p>
+
+### Execution Output 2
+
+<p align="center">
+  <img src="images/arithmetic_test_2.png" width="900">
+</p>
+
+### Execution Output 3
+
+<p align="center">
+  <img src="images/arithmetic_test_3.png" width="900">
+</p>
+
+---
+
+## 2. Load/Store Program with Multi-Cycle Memory Access
+
+This program exercises memory-intensive instructions (`lw` and `sw`) to evaluate the effects of variable memory latency on pipeline performance.
+
+Features demonstrated:
+
+* Multi-cycle memory access
+* Memory stalls
+* Load-use hazard detection
+* Data forwarding
+* Pipeline synchronization
+
+### Execution Output 1
+
+<p align="center">
+  <img src="images/memory_test_1.png" width="900">
+</p>
+
+### Execution Output 2
+
+<p align="center">
+  <img src="images/memory_test_2.png" width="900">
+</p>
+
+### Execution Output 3
+
+<p align="center">
+  <img src="images/memory_test_3.png" width="900">
+</p>
+
+---
+
+## 3. Graphical User Interface (GUI)
+
+The project includes a GUI-based visualization environment that allows users to inspect processor execution and pipeline behavior interactively.
+
+Features:
+
+* Pipeline stage visualization
+* Instruction tracking
+* Register monitoring
+* Memory inspection
+* Performance statistics
+
+### GUI Demonstration 1
+
+<p align="center">
+  <img src="images/gui_1.png" width="900">
+</p>
+
+### GUI Demonstration 2
+
+<p align="center">
+  <img src="images/gui_2.png" width="900">
+</p>
+
+---
+
 ## 📈 Sample Results
 
 Typical execution statistics observed during testing:
